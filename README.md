@@ -13,4 +13,5 @@ Items in the shop include:
 - a speed upgrade<br>
 - a fireball that allows you to shoot fireballs<br>
 - an iceball that allows you to shoot iceballs<br>
+
 Right now i plan on including the trap map in our game, thus making it more diverse, improving the UI and after that implement other things that come to mind.
